@@ -4,3 +4,4 @@ My name is Jesse Morrison and I am an undergrad at the **University of Missouri 
 * [Pebbles](Pebbles.md)
 * [Jobs and Work Experience](https://github.com/JesseMorrison12/IT-1000-Midterm/blob/main/Jobs%20and%20Work%20experience.md)
 * [Travel](https://github.com/JesseMorrison12/IT-1000-Midterm/blob/main/Travel.md)
+* [Hobbies](https://github.com/JesseMorrison12/IT-1000-Midterm/blob/main/Hobbies.md)
