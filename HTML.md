@@ -1,5 +1,5 @@
 # Interstate Highway Code
-''highway = int(input('What is the number of your interstate highway? '))
+''' highway = int(input('What is the number of your interstate highway? '))
 if 1 < highway < 100: #primary highway
     if highway % 2 == 0: #determining if even or odd
         print('The highway is primary highway I-',{highway}, 'and it travels east-west.')
