@@ -8,4 +8,5 @@ The places that I have been are:
 * South Dakota
 * Nebraska
 * Iowa
+
 [Main Page](https://github.com/JesseMorrison12/IT-1000-Midterm/blob/main/README.md)
