@@ -1,5 +1,7 @@
 # Interstate Highway Code
-''' highway = int(input('What is the number of your interstate highway? '))
+```
+
+highway = int(input('What is the number of your interstate highway? '))
 if 1 < highway < 100: #primary highway
     if highway % 2 == 0: #determining if even or odd
         print('The highway is primary highway I-',{highway}, 'and it travels east-west.')
@@ -14,5 +16,6 @@ elif 999 >= highway >= 100: #auxilary highway
     print('the auxilary highway I-', {highway}, 'runs', {direction}, 'and is part of the I-', {primaryhigh}, 'interstate highway system.')
 else:
     print('That is not a valid interstate highway number.')
-    
+```
+
 [Main Page](https://github.com/JesseMorrison12/IT-1000-Midterm/blob/main/README.md)
